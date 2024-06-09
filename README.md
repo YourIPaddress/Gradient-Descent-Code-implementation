@@ -1,0 +1,2 @@
+Gradient Descent is an **optimization algorithm** used for _minimizing the cost function in machine learning and deep learning models_. It iteratively adjusts the model parameters by moving them in the direction opposite to the gradient of the cost function with respect to the parameters. This process continues **until the cost function reaches a minimum**, indicating the model parameters have been optimized.
+
